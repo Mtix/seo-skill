@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.seo/
+.env
+.env.*
+!.env.example
+.venv/
+/.seo/
